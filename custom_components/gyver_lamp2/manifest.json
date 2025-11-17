@@ -1,0 +1,12 @@
+{
+  "domain": "gyver_lamp2",
+  "name": "Gyver Lamp 2",
+  "codeowners": ["@dungeon77"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/dungeon77/homeassistant-gyverlamp2",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}
