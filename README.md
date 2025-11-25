@@ -36,7 +36,7 @@ Custom integration for Gyver Lamp 2 - WiFi RGB LED controller with UDP protocol 
 2. Click "Add Integration" 
 3. Search for "Gyver Lamp 2"
 4. Enter your lamp details:
-   - **IP Address**: Your network broadcast IP (e.g., 192.168.1.)
+   - **IP Address**: Your network IP (e.g., 192.168.1.20)
    - **Network Key**: Default is "GL" (as in lamp firmware)
    - **Group Number**: 1-8 (for multiple lamp control)
    - **Device Name**: Custom name for your lamp
@@ -87,7 +87,7 @@ This integration implements the full UDP protocol:
 ## Troubleshooting
 
 **Lamp not responding?**
-- Check IP address format (should end with dot, e.g., 192.168.1.)
+- Check IP address format (e.g., 192.168.1.20)
 - Verify network key matches lamp setting
 - Ensure lamp is on same network segment
 
